@@ -1,6 +1,6 @@
 # node版本大于14.10.0
 
-> My exquisite Nuxt.js project
+算是用过的比较好用的可商用的官网模版
 
 
 ## Build Setup
